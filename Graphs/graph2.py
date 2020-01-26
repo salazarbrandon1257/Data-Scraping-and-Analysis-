@@ -6,8 +6,6 @@ with open('analysis.txt', 'r') as f:
     y = [float(line.split()[1]) for line in lines]
 
 plt.plot(x, y)
-
-
 plt.xlabel('Price')
 plt.ylabel('Rating') 
 plt.title('Book Price vs Rating')
