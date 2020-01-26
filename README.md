@@ -4,3 +4,5 @@
 - Designed and implemented databases in SSMS for the purpose of descriptive statistical analysis, data cleansing and data analysis
 
 ![Image](Graphs/Figure_1.png)
+![Image](Graphs/Figure_2.png)
+![Image](Graphs/Figure_3.png)
